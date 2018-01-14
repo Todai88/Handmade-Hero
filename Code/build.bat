@@ -1,5 +1,5 @@
 @echo off
-call "D:\Schoolwork\VS2017\VC\Auxiliary\Build\vcvarsall" x64
+call "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\Build\vcvarsall" x64
 w:
 mkdir \build
 pushd \build
